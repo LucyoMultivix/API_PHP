@@ -6,6 +6,7 @@ $perfil = [
     'id' => 1,
     'nomeCompleto' => 'Lucyo Regini Belloti',
     'profissao' => 'Estudante de Sistemas de Informação',
+    'cel' => 28999761445,
     'email' => 'samangosuado@gmail.com',
     'senioridade' => 'Junior',
     'bio' => 'Programador por Hobby'
